@@ -2,7 +2,8 @@ enable-magisk-update = true # set this to false if you do not want to receive up
 parallel-jobs = 1
 compression-level = 9 
 
-[Google Photos]
+[Photos]
+app-name = "Google Photos"
 build-mode = "module"
 arch = "arm64-v8a"
 version = "auto"
