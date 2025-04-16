@@ -602,7 +602,7 @@ build_rv() {
 			"${args[module_prop_name]}" \
 			"${app_name} ${args[rv_brand]}" \
 			"${version}, patches: ${rv_patches_ver%%.rvp}" \
- 			"Open-source modification of the official YouTube app, offering ad-free viewing and numerous additional features." \
+ 			"Spoof device info to Pixel XL on Google Photos app to get unlimited backup storage at original quality." \
 			"https://raw.githubusercontent.com/${GITHUB_REPOSITORY-}/update/${upj}" \
 			"$base_template"
 
